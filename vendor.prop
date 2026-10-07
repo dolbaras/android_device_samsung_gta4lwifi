@@ -1,0 +1,6 @@
+# gta4lwifi (SM-T500): Wi-Fi-only tablet without a modem.
+# The telephony stack is disabled.
+ro.radio.noril=yes
+persist.radio.multisim.config=ss
+ro.vendor.multisim.simslotcount=0
+persist.vendor.cne.feature=0
